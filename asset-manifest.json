@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TCDD_bot/static/css/main.7e29a379.css",
+    "main.js": "/TCDD_bot/static/js/main.acedf4f0.js",
+    "index.html": "/TCDD_bot/index.html",
+    "main.7e29a379.css.map": "/TCDD_bot/static/css/main.7e29a379.css.map",
+    "main.acedf4f0.js.map": "/TCDD_bot/static/js/main.acedf4f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e29a379.css",
+    "static/js/main.acedf4f0.js"
+  ]
+}
