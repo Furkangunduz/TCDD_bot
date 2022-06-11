@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TCDD_bot/static/css/main.7e29a379.css",
-    "main.js": "/TCDD_bot/static/js/main.6653858b.js",
+    "main.js": "/TCDD_bot/static/js/main.ddb1b3c9.js",
     "index.html": "/TCDD_bot/index.html",
     "main.7e29a379.css.map": "/TCDD_bot/static/css/main.7e29a379.css.map",
-    "main.6653858b.js.map": "/TCDD_bot/static/js/main.6653858b.js.map"
+    "main.ddb1b3c9.js.map": "/TCDD_bot/static/js/main.ddb1b3c9.js.map"
   },
   "entrypoints": [
     "static/css/main.7e29a379.css",
-    "static/js/main.6653858b.js"
+    "static/js/main.ddb1b3c9.js"
   ]
 }
