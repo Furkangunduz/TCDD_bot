@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Furkangunduz/TCDD_bot/static/css/main.7e29a379.css",
-    "main.js": "/Furkangunduz/TCDD_bot/static/js/main.fac6eb3f.js",
-    "index.html": "/Furkangunduz/TCDD_bot/index.html",
-    "main.7e29a379.css.map": "/Furkangunduz/TCDD_bot/static/css/main.7e29a379.css.map",
-    "main.fac6eb3f.js.map": "/Furkangunduz/TCDD_bot/static/js/main.fac6eb3f.js.map"
+    "main.css": "./static/css/main.7e29a379.css",
+    "main.js": "./static/js/main.fac6eb3f.js",
+    "index.html": "./index.html",
+    "main.7e29a379.css.map": "./static/css/main.7e29a379.css.map",
+    "main.fac6eb3f.js.map": "./static/js/main.fac6eb3f.js.map"
   },
   "entrypoints": [
     "static/css/main.7e29a379.css",
